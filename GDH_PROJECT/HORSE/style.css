@@ -1,0 +1,624 @@
+@media screen and (max-width: 500px) and (min-width:360px){
+  .clr_name{
+  	display:none;
+}
+
+}
+
+*{
+	font-family:sans-serif;
+}
+
+.container-fluid{
+	padding:0px;
+	overflow:hidden;
+}
+#menu{
+	width:100%;
+	background-color:#3090c7;
+	overflow:hidden;
+	height:auto;
+	border-radius:0px;
+
+}
+
+.heading{
+color:black;
+margin-left:2%;
+font-size: 1.2vw;
+}
+.heading1{
+color:black;
+margin-right:23%;
+margin-top:1.5%;
+font-size:1.2vw;
+}
+#nav_box{
+	padding-right:2%;
+	height:auto;
+
+}
+#showmore_clr2{
+	
+	margin-bottom:4%;
+	margin-top: 5%;
+}
+#showmore_mrkclr2{
+	text-align:center;
+	margin-bottom:4%;
+	margin-top: 5%;
+}
+#color_box_2{
+	margin-top: 5%;
+margin-bottom:12%;
+}
+#btn_des {
+	outline: none;
+	background-color:#3090c7;
+	color:white;
+	font-size:1.2vw;
+    margin-top:0.5%;
+	padding:0.5%;
+	float:left;
+	margin-left:2%;
+	text-decoration:none;
+	text-align:center;
+
+}
+#main_menu{
+background-color:#3090c7;
+	height:auto;
+	border:none;
+	border-radius:none;
+
+}
+#btn_login{
+	outline: none;
+	padding:1%;
+
+	margin-right:2%;
+	background-color:#3090c7;
+	text-align:center;
+	color:white;
+	font-size:1.1vw;
+	float:right;
+	text-decoration: none;
+}
+#restart{
+	float:right;
+	color:#3090c7;
+	border:0.18vw solid #3090c7;
+	padding:0.3%;
+	height:10%;
+	width:10%;
+	background-color:transparent;
+	border-radius:0px;
+	margin-right:1.5%;
+	font-weight:bold;
+	font-size:1.4vw;
+}
+#save{
+	margin-right:1.5%;
+	float:right;
+	color:#3090c7;
+	height:10%;
+	width:10%;
+	border:0.18vw solid #3090c7;
+	background-color:transparent;
+	border-radius:0px;
+	padding:0.3%;
+	font-weight:bold;
+	text-align:center;
+	font-size:1.4vw;
+}
+#canva_box{
+	margin-top:3%;
+}
+#cart_btn{
+	background-color:#3090c7;
+	text-align:center;
+	padding:1.2%;
+	color:white;
+	font-size:1.4vw;
+	height:7%;
+	width:22%;
+	border-radius:0px;
+	outline:none; 
+}
+#save_btn{
+background-color:#3090c7;
+	text-align:center;
+	padding:1.2%;
+	color:white;
+	font-size:1.4vw;
+	height:7%;
+	width:22%;
+	border-radius:0px;
+	outline:none;	
+}
+#total{
+margin-top:2%;
+margin-bottom:0px;
+text-align:center;
+font-size:0.9vw;
+color:#3090c7;
+}
+.cap_clr_btns{
+	text-align:center;
+	border-radius:50%;
+	width:72%;
+	height:3.5vw;
+	outline:none;
+
+}
+.cap_clr_btns:focus{
+ 	outline:none;
+ 	border:2px solid gray;
+ 	border-radius:50%;
+ }
+
+
+.short_clr_btns{
+	text-align:center;
+	border-radius:50%;
+	width:72%;
+	height:3.5vw;
+	outline:none;
+
+}
+.short_clr_btns:focus{
+ 	outline:none;
+ 	border:2px solid gray;
+ 	border-radius:50%;
+ }
+
+
+
+#price{
+	margin-top:0px;
+	color:#3090c7;
+	text-align:center;
+	font-size:1.4vw;
+	font-weight:bold;
+	text-align:center;
+
+}
+
+.navbar-inverse{
+	background-color:#3090c7;
+	height:auto;
+	border:none;
+	border-radius:0px;
+	margin-bottom:1.5%;
+
+}
+#body_menu a{
+	color:white;
+	font-size:1.4vw;
+text-decoration: none;
+}
+#sub_color{
+text-align:center; 
+display:none;
+ }
+
+ #sub_mrkcolor{
+text-align:center; 
+display:none;
+ }
+ #shirt_box_2{
+ border:0.18vw solid #3090c7;
+ 	 margin-left:0.5%;
+ 	float:center;
+ 	width:100%;
+ 	display:none;
+ }
+ #sub_clr_name{ 
+ display:none;
+  }
+  #sub_color_4{
+  	margin-left:0.8%;
+  	margin-bottom:8%;
+  	margin-top:10%;
+  	display:none;
+  }
+  #sub_clr_name_4{
+  	display:none;
+  }
+#color_box{
+	border:0.18vw solid #3090c7;
+	width:100%;
+	float:center;
+	height:auto;
+	margin-top:2%;
+}
+#thrd_color_2{
+	margin-bottom:10%;
+	display: none;
+}
+.claraplayer span{
+	display:none;
+
+}
+.claraplayer a{
+	display:none;
+}
+#clara-embed{
+	background-color:#FFFFFF;
+}
+#clara-embed{
+	background-color:white;
+}
+#marking_clrbox{
+	border:0.18vw solid #3090c7;
+	width:100%;
+	display:none;
+	float:center;
+	height:auto;
+	margin-top:2%;
+}
+
+.btn_element{
+	text-align:center;
+}
+.main-tabs{
+	width:100% !important;
+}
+.clr_btns{
+	text-align:center;
+	border-radius:50%;
+	width:72%;
+	height:3.5vw;
+	outline:none;
+
+}
+
+ .clr_btns:focus{
+ 	outline:none;
+ 	border:2px solid gray;
+ 	border-radius:50%;
+
+
+ }
+
+
+.mrk_clr_btns{
+	text-align:center;
+	border-radius:50%;
+	width:72%;
+	height:3.5vw;
+	outline:none;
+
+}
+
+ .mrk_clr_btns:focus{
+ 	outline:none;
+ 	border:2px solid gray;
+ 	border-radius:50%;
+
+
+ }
+.slv_clr_btns{
+	text-align:center;
+	border-radius:50%;
+	width:72%;
+	height:3.5vw;
+	outline:none;
+
+}
+
+.slv_clr_btns:focus{
+ 	outline:none;
+ 	border:2px solid gray;
+ 	border-radius:50%;
+
+
+ }
+
+#color_box_1{
+	border:0.18vw solid #3090c7;
+	width:100%;
+	height:auto;
+	float:center;
+	margin-top:1%;
+}
+
+.texture{
+width:100%;
+height:auto;
+background-color:transparent;
+ }
+ #img_row{
+ 	margin-top:8%;
+ 	margin-bottom:8%;
+ }
+
+#more_colorbox{
+	display:none;
+	margin-top:5%;
+
+}
+#more_mrkcolorbox{
+	display:none;
+	margin-top:5%;
+
+}
+#more_colorbox_2{
+	margin-top:10%;
+	display:none;
+}
+#more_name{
+	display:none;
+}
+#more_colorbox_slv{
+	margin-top:10%;
+	display:none;
+}
+#more_name_2{
+	margin-bottom:10%;
+}
+#more_label{
+	margin-bottom: 10%;
+}
+#more_label_cap{
+	margin-bottom: 10%;
+}
+#slv_btn1{
+	margin-right:70%;
+	outline:none;
+ 	border:none;
+ 	position:relative;
+ 	text-align:center;
+ 	background-color:transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+}
+
+#slv_btn2{
+	margin-left:60%;
+	outline:none;
+ 	border:none;
+ 	position:relative;
+ 	text-align:center;
+ 	background-color:transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+}
+.list_cap{
+	float:left;
+padding:3%;
+width:33%;
+}
+#slv_btn3{
+	outline:none;
+ 	border:none;
+ 	position:relative;
+ 	text-align:center;
+ 	background-color:transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+}
+#more_name_2{}
+#more_name-slv{
+	display:none;
+}
+#color_box_1{ 
+border:0.18vw solid #3090c7;
+ background-color:transparent;
+ 
+
+  }
+.clr_name{
+	color:black;
+	text-align:center;
+	font-size:0.7vw;
+	font-weight:bold
+}
+ #showmore_clr-2{
+margin-left:1.8%;
+	border-radius:50%;
+	width:8%;
+	height:3.9vw;
+	border:0.18vw solid gray;
+	font-weight:bold;
+	font-size:1.1vw;
+	background-color:transparent; 
+ }
+ #sub_third{
+ margin-top:3%;
+ 	display:none;
+ }
+ #sub_color_2{
+ 	margin-bottom:10%;
+ 	display:none;
+ }
+ #sub_clr_name_3{
+ 	display:none;
+ }
+#shirt_box_1{
+ border:0.18vw solid #3090c7;
+ margin-left:0.5%;
+ 	float:center;
+ 	width:100%;
+ 	display:none;
+ 	
+ }
+ #color_box_1{
+ 	display:none;
+ 	border:0.18vw solid #3090c7;
+	width:100%;
+	height:auto;
+	margin-top:2%;
+ }
+
+ #body_btn2{
+ 	margin-left:60%;
+ 	outline:none;
+ 	border:none;
+ 	position:relative;
+ 	text-align:center;
+ 	background-color: transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+ }
+ #body_btn1{
+ 	outline:none;
+ 	border:none;
+ 	margin-right:70%;
+ 	position:relative;
+ 	text-align:center;
+ 	background-color: transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+ }
+ .list{ 
+ 	float:left;
+padding:3%;
+width:33%;
+  }
+ .list_slv{
+  float:left;
+padding:3%;
+width:33%;
+  	  }
+
+ .button_clr{
+ 	width:10%;
+	height:3vw;
+	margin-left:1%;
+	float:left;
+
+ }
+
+ #color_box_3{
+ 	border:0.18vw solid #3090c7;
+	width:100%;
+	height:auto;
+	margin-top:2%;
+	display:none;
+	margin-bottom:2%;
+
+ }
+ #cap_color_box2{
+ 	margin-left:0.8%;
+ 	margin-top:5%;
+ 	margin-bottom:12%;
+ }
+ #more_colorbox_cap{
+    margin-left:0.8%;
+ 	margin-top:10%;
+ 	display:none;
+ }
+ #more_name-cap{
+ 	display:none;
+ }
+#showless_cap{
+	font-size:1vw;
+	margin-left:0.3%;
+	background-color:transparent;
+	margin-top:1%;
+	border:2px solid gray;
+}
+#less_4{
+	font-size:1vw;
+	margin-left:0.3%;
+	background-color:transparent;
+	margin-top:1%;
+	border:2px solid gray;
+}
+#sub_cap_clr{
+	font-size:1vw;
+	margin-left:0.3%;
+	background-color:transparent;
+	margin-top:1%;
+	border:2px solid gray;
+}
+ #short_btn1{
+ 	margin-right:70%;
+ 	outline:none;
+ 	border:none;
+
+ 	position:relative;
+ 	text-align:center;
+ 	background-color:transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+ }
+ #short_btn2{
+ 	outline:none;
+margin-left:60%;
+ 	border:none;
+ 	position:relative;
+ 	text-align:center;
+ 	background-color:transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+ }
+ #short_btn3{
+ 	outline:none;
+ 	border:none;
+ 	position:relative;
+ 	text-align:center;
+ 	background-color:transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+ }
+ #spec_btn{
+ 	margin-left:60%;
+ 	outline:none;
+ 	border:none;
+ 	position:relative;
+ 	text-align:center;
+ 	background-color:transparent;
+ 	color:white;
+ 	font-size:1.1vw;
+ }
+ 
+.shirt_heading{
+ 	margin-left:1%;
+ 	margin-top:1%;
+ }
+ 
+ 	#shirt_box{
+ 	border:0.18vw solid #3090c7;
+ 	 margin-left:0.5%;
+ 	float:center;
+ 	width:100%;
+ 	display:none;
+ }
+ .shirt_label{
+ 	color:black;
+ 	text-align:center;
+
+ }
+#form-group{
+	padding-left:20px;
+} 	
+#spec_box{
+	display:none;
+	border:0.18vw solid #3090c7;
+	width:100%;
+	height:auto;
+	padding:5%;
+	margin-bottom:5%;
+}
+#siz_mrg{
+	margin-left:5%;
+}
+#qty_mrg{
+	margin-left:5%;
+}
+#show_data{
+	text-align:center;
+	float:justify;
+	font-size:1.1vw;
+	width:20%;
+	height:200px;
+	border-bottom:2px solid black;
+	border-top: 2px solid gray;
+	background-color:teal;
+	display:none;
+	position:relative;
+	color:white;
+
+}
